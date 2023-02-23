@@ -1,5 +1,5 @@
 btn.addEventListener('click',()=>{
-    const url = ""
+    const url = "https://shy-tan-sneakers.cyclic.app/post"
     data ={
         name : document.querySelector("#username").value,
         pswd : document.querySelector("#password").value
