@@ -1,5 +1,5 @@
 btn.addEventListener('click',()=>{
-    const url = "http://localhost:7000/post"
+    const url = ""
     data ={
         name : document.querySelector("#username").value,
         pswd : document.querySelector("#password").value
